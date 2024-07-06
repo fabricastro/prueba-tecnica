@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+      @apply font-opensans;
+    }
+  }
+  
+* {
+    transition: background-color .2s;
+}
+
+.bg-gradient{
+    background: linear-gradient(90deg, #0D5287 -14.11%, #187DCA 13.97%, #05AACE 40.69%, #04D2C6 68.1%, #26E4C7 90.02%, #D3FFF5 117.42%);
+}
+.divisor{
+    border: 2px solid #DEE7F0;
+}
+.border-info{
+    border-inline-start-width: 2px;   
+}
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .fade-in {
+    opacity: 0;
+    animation: fadeIn 0.6s forwards;
+  }
+  
+  .fade-in-1 { animation-delay: 0.1s; }
+  .fade-in-2 { animation-delay: 0.2s; }
+  .fade-in-3 { animation-delay: 0.3s; }

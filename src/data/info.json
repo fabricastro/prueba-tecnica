@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Redesigned notifications",
+        "chip": "Feat",
+        "date": "Jul 15, 2024",
+        "text": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+        "img": "https://cdn.discordapp.com/attachments/1112805822888693860/1258880889597857912/image_9.png?ex=6689a7b0&is=66885630&hm=8dc6b4e21a9eceb012f3b3eda4f9d7cd6c30d70743ce8173e504101916655525&"
+    },
+    {
+        "title": "Bugs",
+        "chip": "Fix",
+        "date": "Jul 23, 2024",
+        "text": "In our continuous effort to make Hirefy the most reliable recruiting platform, we eliminate bugs in the platform! 🚫 Heres a summary of some of the major fixes:",
+        "details": [
+            "Unable to attach PDF to tasks using the Adobe integration.",
+            "The total contract time between talent and clients cannot be updated.",
+            "Some files are not loading when uploaded to portfolio.",
+            "You cannot update the company photo.",
+            "You cannot update the job post list from the talent dashboard.",
+            "The marketplace filters were not working correctly, they duplicated cards.",
+            "Users could enter a talent's portfolio without having to log in.",
+            "Homepage: new images with correct shadows.",
+            "Email Hirefy signatures displayed incorrect padding."
+        ]
+    },
+    {
+        "title": "Redesigned notifications",
+        "chip": "Feat",
+        "date": "Jul 15, 2024",
+        "text": "With the revamped Time Tracking interface, you get a streamlined design for easier, efficient time tracking. Track time directly from the menu bar and have admins record time for other users, ensuring total time-tracking control.",
+        "img": "https://cdn.discordapp.com/attachments/1112805822888693860/1258880900721016883/image_10.png?ex=6689a7b3&is=66885633&hm=eb391d723aae4111a63321216be4b8946836b3505bb5f050622e4b2d7482fc05&"
+    }
+]
